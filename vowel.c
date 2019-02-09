@@ -12,7 +12,7 @@ int main()
     }
     else
     {
-        printf("Consonants");
+        printf("Consonant");
     }
     }
     else
