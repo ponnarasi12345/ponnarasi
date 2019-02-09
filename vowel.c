@@ -3,17 +3,16 @@
 int main()
 {
     char p;
-    printf("enter the character:\n");
     scanf("%s",&p);
     if((p<='z') && (p>='a'))
     {
     if(p=='a'|| p=='e' || p=='i' || p=='o' || p=='u')
     {
-        printf("vowels");
+        printf("Vowels");
     }
     else
     {
-        printf("consonants");
+        printf("Consonants");
     }
     }
     else
