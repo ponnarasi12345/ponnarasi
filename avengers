@@ -1,0 +1,19 @@
+<DOCTYPE html>
+<html>
+	<div class="myslide fade">
+	  <div class="numbertext">1 / 3</div>
+	  <img src="C:\Users\TEMP.SRECIT.002\Desktop"style="width:100%">
+	  <div class="text"> caption one</div>
+	</div>
+	<div class="myslide fade">
+	  <div class="numbertext">2 / 3</div>
+	  <img src="C:\Users\TEMP.SRECIT.002\Desktop"style="width:100%">
+	  <div class="text"> caption two</div>
+	</div>
+	<div class="myslide fade">
+	  <div class="numbertext">3 / 3</div>
+	  <img src="C:\Users\TEMP.SRECIT.002\Desktop"style="width:100%">
+	  <div class="text"> caption three</div>
+	</div>
+	<div style="textalign:center>
+</html>
